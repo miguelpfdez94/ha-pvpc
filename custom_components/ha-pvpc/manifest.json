@@ -1,9 +1,9 @@
 {
-  "domain": "pvpc_hourly_pricing",
+  "domain": "pvpc_hourly_pricing by miguel",
   "name": "Spain electricity hourly pricing (PVPC)",
-  "codeowners": ["@azogue"],
+  "codeowners": ["@miguelpfdez94"],
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/pvpc_hourly_pricing",
+  "documentation": "https://github.com/miguelpfdez94/ha-pvpc/blob/master/README.md",
   "integration_type": "service",
   "iot_class": "cloud_polling",
   "loggers": ["aiopvpc"],
