@@ -1,6 +1,6 @@
 {
   "domain": "pvpc_hourly_pricing by miguel",
-  "name": "Spain electricity hourly pricing (PVPC)",
+  "name": "Spain electricity hourly",
   "codeowners": ["@miguelpfdez94"],
   "config_flow": true,
   "documentation": "https://github.com/miguelpfdez94/ha-pvpc/blob/master/README.md",
